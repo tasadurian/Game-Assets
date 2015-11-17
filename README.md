@@ -4,6 +4,7 @@ A collection of resources to help you make games!
 ## Art
 
 * [Open Game Art](http://opengameart.org/) - All types of free assets.
+* [Game Developer Studio](http://www.gamedeveloperstudio.com/index.php) - Great collection of graphical assets.
 
 ## Sounds
 
