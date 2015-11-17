@@ -1,18 +1,18 @@
 # Game-Assets
 A collection of resources to help you make games!
 
-### Art
+## Art
 
 * [Open Game Art](http://opengameart.org/) - All types of free assets.
 
-### Sounds
+## Sounds
 
 * [Bfxr](http://www.bfxr.net/) - Make your own game sounds.
 * [Music for Makers](http://musicformakers.com/) - One royalty free song per week.
 
-### Tutorials
+## Tutorials
 
-### Contributing
+## Contributing
 
 * Search previous suggestions before making a new one, as yours may be a
 duplicate.
