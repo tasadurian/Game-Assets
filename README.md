@@ -3,9 +3,12 @@ A collection of resources to help you make games!
 
 ### Art
 
+* [Open Game Art](http://opengameart.org/) - All types of free assets.
+
 ### Sounds
 
 * [Bfxr](http://www.bfxr.net/) - Make your own game sounds.
+* [Music for Makers](http://musicformakers.com/) - One royalty free song per week.
 
 ### Tutorials
 
