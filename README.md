@@ -19,6 +19,7 @@ A collection of resources to help you make games!
 ## Engines and Tutorials
 
 * [Unity](https://unity3d.com/) **C#** - Very robust cross platform engine.
+* [Phaser](http://phaser.io/) **JavaScript** - An open source engine for browser based games.
 
 ## Contributing
 
