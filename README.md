@@ -14,6 +14,8 @@ A collection of resources to help you make games!
 
 ## Tools
 
+* [Tiled](http://www.mapeditor.org/) - Your free, easy to use and flexible tile map editor.
+
 ## Tutorials
 
 ## Contributing
