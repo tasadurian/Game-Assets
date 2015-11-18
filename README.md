@@ -16,9 +16,9 @@ A collection of resources to help you make games!
 
 ## Tools
 
+* [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation.
 * [Tiled](http://www.mapeditor.org/) - Your free, easy to use and flexible tile map editor.
   * [Tutorial](http://www.gamefromscratch.com/post/2015/10/14/Tiled-Map-Editor-Tutorial-Series.aspx) - Great Video series for getting started.
-* [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation.
 
 ## Engines and Tutorials
 
