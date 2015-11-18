@@ -10,6 +10,7 @@ A collection of resources to help you make games!
 ## Sounds
 
 * [Bfxr](http://www.bfxr.net/) - Make your own game sounds.
+* [Mark Sparling](http://marksparling.com/) - 70 awesome tracks you can use.
 * [Music for Makers](http://musicformakers.com/) - One royalty free song per week.
 
 ## Tools
