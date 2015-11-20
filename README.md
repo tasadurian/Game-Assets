@@ -16,8 +16,9 @@ A collection of resources to help you make games!
 
 ## Tools
 
-* [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation.
+* [Gimp](https://www.gimp.org/) - Open source image manipulation software.
 * [Inkscape](https://inkscape.org/en/) - Inkscape is professional quality vector graphics software.
+* [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation.
 * [Tiled](http://www.mapeditor.org/) - Your free, easy to use and flexible tile map editor.
   * [Tutorial](http://www.gamefromscratch.com/post/2015/10/14/Tiled-Map-Editor-Tutorial-Series.aspx) - Great Video series for getting started.
 
