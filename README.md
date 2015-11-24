@@ -24,6 +24,7 @@ A collection of resources to help you make games!
 
 ## Engines and Tutorials
 
+* [Cocos2dx](http://www.cocos2d-x.org/) **C++** - A suite of cross-platform, game-development tools.
 * [LibGDX](https://libgdx.badlogicgames.com/) **Java** - Fast, open source, cross platform.
 * [Phaser](http://phaser.io/) **JavaScript** - An open source engine for browser based games.
 * [Unity](https://unity3d.com/) **C#** - Very robust cross platform engine.
