@@ -30,6 +30,7 @@ A collection of resources to help you make games!
 * [Ogre3D](http://www.ogre3d.org/) **C++** - Popular open-source graphics rendering engine.
 * [Phaser](http://phaser.io/) **JavaScript** - An open source engine for browser based games.
 * [Pygame](http://pygame.org/hifi.html) **Python** - A set of Python modules designed for writing games.
+* [Torque3D](http://www.garagegames.com/products/torque-3d) **C++** - Torque 3D supports Windows and Browser-based web deployment out of the box.
 * [Unity](https://unity3d.com/) **C#** - Very robust cross platform engine.
 * [Unreal Engine 4](https://www.unrealengine.com/what-is-unreal-engine-4) **C++** - A complete suite of game development tools.
 
