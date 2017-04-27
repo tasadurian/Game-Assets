@@ -2,7 +2,7 @@
 A collection of resources to help you make games!
 
 ## Art
-
+* [Yobi3D - Free 3D model search engine](https://www.yobi3d.com/)
 * [Game Developer Studio](http://www.gamedeveloperstudio.com/index.php) - Great collection of graphical assets.
 * [KennyNL](http://www.kenney.nl/) - Very high quality free assets.
 * [Open Game Art](http://opengameart.org/) - All types of free assets.
